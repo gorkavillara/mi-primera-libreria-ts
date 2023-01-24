@@ -17,3 +17,4 @@ export class OperacionesMatematicas {
         return suma;
     }
 }
+//# sourceMappingURL=index.js.map

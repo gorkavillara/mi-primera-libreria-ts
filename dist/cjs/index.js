@@ -21,3 +21,4 @@ class OperacionesMatematicas {
     }
 }
 exports.OperacionesMatematicas = OperacionesMatematicas;
+//# sourceMappingURL=index.js.map
